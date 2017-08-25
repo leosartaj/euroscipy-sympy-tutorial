@@ -2,3 +2,4 @@ python
 jupyter
 sympy
 numpy
+matplotlib
