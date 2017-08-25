@@ -40,7 +40,7 @@ Creating a conda environment
 
 Once you have conda installed, you can make a new environment.
 
-You can create a new environment as:
+You can create a new environment as::
 
    > conda create -n sympytutorial python=3.6
 
@@ -48,7 +48,7 @@ When creation is complete you may activate the environment by typing::
 
    > activate sympytutorial
 
-on Windows or using Bash on Linux/Mac)::
+on Windows or using Bash on Linux/Mac::
 
    $ source activate sympytutorial
 
