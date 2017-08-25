@@ -34,3 +34,59 @@ or::
 At the command line, change into the repository directory::
 
    > cd /path/to/euroscipy-sympy-tutorial
+
+Creating a conda environment
+----------------------------
+
+Once you have conda installed, you can make a new environment.
+
+You can create a new environment as:
+
+   > conda create -n sympytutorial python=3.6
+
+When creation is complete you may activate the environment by typing::
+
+   > activate sympytutorial
+
+on Windows or using Bash on Linux/Mac)::
+
+   $ source activate sympytutorial
+
+To install the necessary packages, you may run the following command::
+
+   (sympytutorial)> conda install --file=requirements.txt
+  
+To check to see if everything is installed correctly type::
+
+   (sympytutorial)> python test_installation.py
+
+If there are no errors or warnings you have installed the software correctly.
+
+To exit the environment you type::
+
+   (sympytutorial)> deactivate
+
+If you for some reason want to remove the environment you can do so after
+deactivating by typing::
+
+   > conda env remove --name sympytutorial
+
+on windows, and::
+
+   $ source deactivate
+
+on Linux/Mac (using bash).
+
+At this point you have everything installed to run the code in the tutorial.
+
+Running the notebooks
+=====================
+
+After activating the `sympytutorial` environment start Jupyter in the `notebooks`
+directory::
+
+   (sympytutorial)> jupyter notebook
+
+A web interface should open in your web browser (default address
+http://localhost:8888). Note that Ctrl-C will stop the notebook
+server.
