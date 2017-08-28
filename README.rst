@@ -90,3 +90,8 @@ directory::
 A web interface should open in your web browser (default address
 http://localhost:8888). Note that Ctrl-C will stop the notebook
 server.
+
+More Resources
+==============
+
+This tutorial is based on [SymPy Tutorial (SciPy 2016)](https://github.com/sympy/scipy-2016-tutorial) and [SymPy Code Generation Tutorial (SciPy 2017)](https://github.com/sympy/scipy-2017-codegen-tutorial).
