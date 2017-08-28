@@ -35,14 +35,14 @@ At the command line, change into the repository directory::
 
    > cd /path/to/euroscipy-sympy-tutorial
 
-Creating a conda environment
-----------------------------
+Creating a conda environment from ``environment.yml``
+-----------------------------------------------------
 
-Once you have conda installed, you can make a new environment.
+Once you have conda installed, you can make a new environment. We strongly
+encourage you to use ``environment.yml``. At the command line, you can create
+this environment by executing e.g.::
 
-You can create a new environment as::
-
-   > conda create -n sympytutorial python=3.6
+   > conda env create -f environment.yml
 
 When creation is complete you may activate the environment by typing::
 
