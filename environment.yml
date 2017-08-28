@@ -1,0 +1,10 @@
+name: sympytutorial
+channels:
+  - defaults
+dependencies:
+  - python >=3.6
+  - setuptools
+  - notebook
+  - numpy
+  - matplotlib
+  - sympy =1.1
