@@ -8,9 +8,9 @@ Introduction
 This repository contains all of the source code and Jupyter notebooks for the
 EuroSciPy 2017 tutorial "Introduction to SymPy".
 
-Intro Slides can be found here_
+The statically rendered Jupyter notebooks in this repository can be viewed on NBViewer_.
 
-.. _here: https://slides.com/leosartaj/sympy-1/live#/
+.. _NBViewer: https://nbviewer.jupyter.org/github/leosartaj/euroscipy-sympy-tutorial/blob/master/index.ipynb
 
 Software Installation
 =====================
