@@ -92,5 +92,5 @@ More Resources
 
 This tutorial is based on SymPy-Tutorial(SciPy 2016)_ and SymPy-Code-Generation-Tutorial(SciPy 2017)_
 
-.. _SymPy-Tutorial(SciPy 2016) https://github.com/sympy/scipy-2016-tutorial
-.. _SymPy-Code-Generation-Tutorial(SciPy 2017)_ https://github.com/sympy/scipy-2017-codegen-tutorial
+.. _SymPy-Tutorial(SciPy 2016): https://github.com/sympy/scipy-2016-tutorial
+.. _SymPy-Code-Generation-Tutorial(SciPy 2017): https://github.com/sympy/scipy-2017-codegen-tutorial
