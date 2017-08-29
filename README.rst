@@ -90,7 +90,5 @@ server.
 More Resources
 ==============
 
-This tutorial is based on SymPy-Tutorial(SciPy 2016)_ and SymPy-Code-Generation-Tutorial(SciPy 2017)_
+This tutorial is based on `SymPy-Tutorial(SciPy 2016)<https://github.com/sympy/scipy-2016-tutorial>`_ and `SymPy-Code-Generation-Tutorial(SciPy 2017)<https://github.com/sympy/scipy-2017-codegen-tutorial`_.
 
-.. _SymPy-Tutorial(SciPy 2016): https://github.com/sympy/scipy-2016-tutorial
-.. _SymPy-Code-Generation-Tutorial(SciPy 2017): https://github.com/sympy/scipy-2017-codegen-tutorial
