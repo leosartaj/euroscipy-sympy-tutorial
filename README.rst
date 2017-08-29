@@ -8,6 +8,10 @@ Introduction
 This repository contains all of the source code and Jupyter notebooks for the
 EuroSciPy 2017 tutorial "Introduction to SymPy".
 
+Intro Slides can be found here_
+
+.. _here: https://slides.com/leosartaj/sympy-1/live#/
+
 Software Installation
 =====================
 
