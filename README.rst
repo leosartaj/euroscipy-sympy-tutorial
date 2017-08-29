@@ -52,10 +52,6 @@ on Windows or using Bash on Linux/Mac::
 
    $ source activate sympytutorial
 
-To install the necessary packages, you may run the following command::
-
-   (sympytutorial)> conda install --file=requirements.txt
-  
 To check to see if everything is installed correctly type::
 
    (sympytutorial)> python test_installation.py
